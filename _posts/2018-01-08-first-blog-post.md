@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Portfolio site launch"
+title: "Portfolio Site Launch"
 date: 2018-01-08
 ---
 
